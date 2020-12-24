@@ -1,0 +1,27 @@
+body
+	{
+	background-color: #a39193;
+	}
+
+h1
+	{
+	background-color: #66545e;
+	font-family: 'Sigmar One', cursive;
+	font-size: 80px;
+	color: #f6e0b5;
+	border: solid;
+	border-color: #dfdfde;
+	border-radius: 50px;
+	}
+
+h2
+	{
+	background-color: #a2798f;
+	font-family: 'Caveat', cursive;
+	font-size: 50px;
+	color: #ebdada;
+	text-align: center;
+	border: solid;
+	border-color: #8caba8;
+	border-radius: 50px;
+	}
