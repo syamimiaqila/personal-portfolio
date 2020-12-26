@@ -7,7 +7,7 @@ h1
 	{
 		background-color: #66545e;
 	color: 	#f6e0b5;
-	font-family: 'Bungee Outline', cursive;
+	font-family: 'Niconne', cursive;
 	font-size: 50px;
 	border: solid;
 	border-color: #ebdada;
@@ -17,7 +17,7 @@ h1
 h2
 	{
 	color: #dfdfde;
-	font-family: 'Bungee Outline', cursive;
+	font-family: 'Niconne', cursive;
 	font-size: 50px;
 	background-color: #a2798f;
 	border: dotted;
@@ -26,7 +26,7 @@ h2
 	}
 p
 	{
-	background-color: green
+	background-color: green;
 	color:blue;
 	text-align: center;
 	text-decoration: none;
@@ -44,7 +44,7 @@ a:link, a:visited
 	display: inline-block;
 	border-radius: 15px;
 	padding: 15px;
-	font-family: 'Bungee Outline', cursive;
+	font-family: 'Niconne', cursive;
 	}
 
 a:hover, a:active
