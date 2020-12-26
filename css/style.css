@@ -5,23 +5,50 @@ body
 
 h1
 	{
-	background-color: #66545e;
-	font-family: 'Sigmar One', cursive;
-	font-size: 80px;
-	color: #f6e0b5;
+		background-color: #66545e;
+	color: 	#f6e0b5;
+	font-family: 'Bungee Outline', cursive;
+	font-size: 50px;
 	border: solid;
-	border-color: #dfdfde;
-	border-radius: 50px;
+	border-color: #ebdada;
+	border-radius: 35px;
 	}
 
 h2
 	{
-	background-color: #a2798f;
-	font-family: 'Caveat', cursive;
+	color: #dfdfde;
+	font-family: 'Bungee Outline', cursive;
 	font-size: 50px;
-	color: #ebdada;
+	background-color: #a2798f;
+	border: dotted;
+	border-color: #dfdfde;
+	border-radius: 35px;
+	}
+p
+	{
+	background-color: green;
+	color:blue;
 	text-align: center;
-	border: solid;
-	border-color: #8caba8;
-	border-radius: 50px;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 25px;
+	padding: 15px;
+
+	}
+a:link, a:visited
+	{
+	background-color: black;
+	color: #a39193;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 15px;
+	padding: 15px;
+	font-family: 'Bungee Outline', cursive;
+	}
+
+a:hover, a:active
+	{
+	background-color: #8caba8;
+	color: 	#d7c6cf;
 	}
